@@ -10,9 +10,5 @@ public class AlphabetCase {
 
         //System.out.println(name.toUpperCase());
         System.out.println(name.toLowerCase());
-
-
-
-
     }
 }
